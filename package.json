@@ -1,0 +1,25 @@
+{
+  "name": "shopify_auto_report",
+  "version": "1.0.0",
+  "description": "Generate report based on the Shopify API response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiuTai/shopify_auto_report.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiuTai/shopify_auto_report/issues"
+  },
+  "homepage": "https://github.com/LiuTai/shopify_auto_report#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "exceljs": "^4.2.0",
+    "yargs": "^16.2.0"
+  }
+}
